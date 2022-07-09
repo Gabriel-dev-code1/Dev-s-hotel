@@ -1,7 +1,6 @@
 # Dev-s-hotel
-Sistema desktop para hóteis, com cadastro de hóspedes e de reservas, utilizando c# e sql.
+<h1 align text="center">Sistema desktop para hóteis com windows forms</h1>
 
-  Dev´s hotel
   
    This project has: ⚠️
   >+ Registration screens
@@ -13,9 +12,16 @@ Sistema desktop para hóteis, com cadastro de hóspedes e de reservas, utilizand
    Technologies used 🖥️ 
  > + MySql
  > + C# language
-  <p>The goal is to register guests, staff, reservations and show guest reports and reservations registered<p>
   <p>This project has been created in 2021, in a college work and i still intend to modify certain parts<p>
   <p>i'll put here the link of my linkedin to contacts: www.linkedin.com/in/gabriel-antonino-06356719b 📱
+  
+  Goal:
+  > Create a  hotel project for college with c# and mysql
+  
+  IDE:
+  > Visual studio 2022
+  
+  > Microsoft sql server
 <p> 
    knowledge I acquired in this project 📚 
   
@@ -23,6 +29,8 @@ Sistema desktop para hóteis, com cadastro de hóspedes e de reservas, utilizand
  > + Windows forms framework
  > + Some c# commands
     
-  Projects images<p>
+  Authores: Gabriel Fernandes
+  
   
     
+![perfi~l](https://user-images.githubusercontent.com/78943619/178086108-7080e724-2679-4903-99b7-0aae283dd6ba.jpg)
