@@ -1,5 +1,5 @@
 # Dev-s-hotel
-<h1 align text="center">Sistema desktop para hóteis com windows forms</h1>
+<h1 align text="center">Hotel register system using windows forms</h1>
 
   
    This project has: ⚠️
