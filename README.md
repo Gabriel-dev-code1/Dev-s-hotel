@@ -1,6 +1,8 @@
 # Dev-s-hotel
 <h1 align text="center">Hotel register system using windows forms</h1>
 
+PS: this was my second project created on college, very simple, just to practice.
+
   
    This project has: ⚠️
   >+ Registration screens
@@ -22,6 +24,10 @@
   > Visual studio 2022
   
   > Microsoft sql server
+
+  DATABASE SYSTEM:
+   MySql
+   
 <p> 
    knowledge I acquired in this project 📚 
   
@@ -29,8 +35,8 @@
  > + Windows forms framework
  > + Some c# commands
     
-  Authores: Gabriel Fernandes
+  author: Gabriel Fernandes
   
   
     
-![perfi~l](https://user-images.githubusercontent.com/78943619/178086108-7080e724-2679-4903-99b7-0aae283dd6ba.jpg)
+
